@@ -107,3 +107,7 @@ footer {
   font-style: italic;
   color: #94a3b8;
 }
+
+#contato p {
+  margin: 8px 0;
+}
